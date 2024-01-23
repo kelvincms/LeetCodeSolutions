@@ -1,7 +1,7 @@
 /**
  * @author Kelvin Clovis Montoli de Souza
  *
- * Unit tests for the Longest Palindromic class.
+ * Unit tests for the MedianOfTwoSortedArrays class.
  * 
  */
 
