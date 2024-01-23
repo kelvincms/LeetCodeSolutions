@@ -18,7 +18,6 @@
 
 package LeetCode.ZigZagConversion;
 
-import java.util.ArrayList;
 
 public class ZigZagConversion {
 
