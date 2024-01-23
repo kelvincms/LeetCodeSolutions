@@ -1,3 +1,10 @@
+
+/**
+ * @author Kelvin Clovis Montoli de Souza
+ *
+ * Auxiliary class used to represent a linked list
+ */
+
 package LeetCode.AddTwoNumbers;
 
 public class ListNode {
@@ -6,6 +13,7 @@ public class ListNode {
     ListNode next;
 
     ListNode() {
+    this.next = null;    
     }
 
     ListNode(int val) {
