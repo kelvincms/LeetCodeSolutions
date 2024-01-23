@@ -5,8 +5,8 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 public class ZigZagConversionTest {
+    
     @Test
-
     public void convert_emptyNumberOfRows_expectedAnswer() {
         String input = "ABCDE", expectedAnswer = "ABCDE", answer = "";
         int numberOfRows = 0;
