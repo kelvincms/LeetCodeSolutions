@@ -28,7 +28,7 @@ public class LCAddTwoNumbers {
             }
 
         }
-        // Conversão podre
+
         String reversedValue1 = l1value.reverse().toString(), reversedValue2 = l2value.reverse().toString();
 
         StringBuilder answer = new StringBuilder(new BigInteger(reversedValue1).add(new BigInteger(reversedValue2)).toString());
