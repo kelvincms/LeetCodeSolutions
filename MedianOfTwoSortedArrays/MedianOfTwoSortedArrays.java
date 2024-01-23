@@ -1,10 +1,19 @@
+/**
+ * @author Kelvin Clovis Montoli de Souza
+ *
+ * LeetCode Question: Median of Two Sorted Arrays	
+ * Problem Statement: Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+ * The overall run time complexity should be O(log (m+n)).
+ *
+ * Solution Approach: Using a merge-like approach to find the median position and merging elements until reaching the median. Since
+ * we already know what is the position of the median from the beginning because of num1.length and num2.length we can simply count until
+ * the position of the median and then return it
+ */
+
 package LeetCode.MedianOfTwoSortedArrays;
 
 import java.util.ArrayList;
 
-/**
- * MedianOfTwoSortedArrays
- */
 public class MedianOfTwoSortedArrays {
 
     public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
