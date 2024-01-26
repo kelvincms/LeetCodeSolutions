@@ -1,5 +1,5 @@
 # Leetcode solutions
-Hi, my name is Kelvin Clovis, i intend to use this repository to store all of my solutions from LeetCode questions. Each solution come along with a couple of UnitTests to validate the solutions, the solutions are not necessarily the best solution for the current problem, they are just my approach to the problem.
+Hi, I'm Kelvin Clovis, and this repository contains my solutions to various LeetCode questions. Each solution is accompanied by a set of Unit Tests for validation. Please note that these solutions represent my approach to the problems and may not necessarily be the optimal solutions.
 
 -------
 ### To run this code you will need to have Java installed on your computer (JDK 8 or higher)
