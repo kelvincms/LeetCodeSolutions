@@ -18,44 +18,44 @@ import java.util.HashMap;
 
 public class RomanToInteger {
 
-    static HashMap<Character, Integer> romanToInteger = new HashMap<Character, Integer>();
+    static HashMap<Character, Integer> romanToIntegerMap = new HashMap<Character, Integer>();
 
     static {
-        romanToInteger.put('I', 1);
-        romanToInteger.put('V', 5);
-        romanToInteger.put('X', 10);
-        romanToInteger.put('L', 50);
-        romanToInteger.put('C', 100);
-        romanToInteger.put('D', 500);
-        romanToInteger.put('M', 1000);
+        romanToIntegerMap.put('I', 1);
+        romanToIntegerMap.put('V', 5);
+        romanToIntegerMap.put('X', 10);
+        romanToIntegerMap.put('L', 50);
+        romanToIntegerMap.put('C', 100);
+        romanToIntegerMap.put('D', 500);
+        romanToIntegerMap.put('M', 1000);
     }
 
     public static int romanToInt(String inputString) {
 
-        int answer = 0;
+        int total = 0;
 
         if (inputString.length() == 0) {
             return 0;
         }
 
         if (inputString.length() == 1) {
-            return romanToInteger.get(inputString.charAt(0));
+            return romanToIntegerMap.get(inputString.charAt(0));
         }
 
-        answer += romanToInteger.get(inputString.charAt(inputString.length() - 1));
+        total += romanToIntegerMap.get(inputString.charAt(inputString.length() - 1));
 
         for (int index = inputString.length() - 2, currentNumber, rightNumber; index >= 0; index--) {
 
-            currentNumber = romanToInteger.get(inputString.charAt(index));
-            rightNumber = romanToInteger.get(inputString.charAt(index + 1));
+            currentNumber = romanToIntegerMap.get(inputString.charAt(index));
+            rightNumber = romanToIntegerMap.get(inputString.charAt(index + 1));
 
             if (currentNumber >= rightNumber) {
-                answer += currentNumber;
+                total += currentNumber;
             } else {
-                answer -= currentNumber;
+                total -= currentNumber;
             }
         }
 
-        return answer;
+        return total;
     }
 }
