@@ -1,7 +1,7 @@
 /**
  * @author Kelvin Clovis Montoli de Souza
  *
- * Unit tests for the RomanToInteger class.
+ * Unit tests for the LenghtOfLastWord class.
  */
 
 package LeetCode.LengthOfLastWord;
