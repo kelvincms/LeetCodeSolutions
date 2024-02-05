@@ -33,6 +33,16 @@ public class RansomNoteTest {
     }
 
     @Test
+    public void canConstruct_sameSizedInputs_expectTrue() {
+        // Unit test for when the ransomNote has the same length as the magazine
+
+        String ransomNote = "aaaaaaadddddddddbbbbbbbbbb", magazine = "aaaaaaadddddddddbbbbbbbbbb";
+        boolean answer, expectedAnswer = true;
+        answer = RansomNote.canConstruct(ransomNote, magazine);
+        assertEquals("ExpectedAnswer must be equal to answer", expectedAnswer, answer);
+    }
+
+    @Test
     public void canConstruct_emptyRansomNote_expectFalse() {
         // Unit test for an empty Ransom Note
 
@@ -55,7 +65,7 @@ public class RansomNoteTest {
     @Test
     public void canConstruct_magazineSmallerThanRansom_expectFalse() {
         // Unit test for an empty magazine
-        
+
         String ransomNote = "ddddddddasdafwewerraads", magazine = "aaasd";
         boolean answer, expectedAnswer = false;
         answer = RansomNote.canConstruct(ransomNote, magazine);
