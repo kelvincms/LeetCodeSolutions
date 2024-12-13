@@ -6,7 +6,7 @@
  * 
  */
 
-package LeetCode.LongestSubstring;
+package LongestSubstring;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;

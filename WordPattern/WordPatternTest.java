@@ -4,7 +4,7 @@
  * Unit tests for the WordPattern class.
  */
 
-package LeetCode.WordPattern;
+package WordPattern;
 
 import static org.junit.Assert.assertEquals;
 

@@ -4,7 +4,7 @@
  * Unit tests for the BestTimeToBuyAndSellStock class.
  */
 
-package LeetCode.BestTimeToBuyAndSellStock;
+package BestTimeToBuyAndSellStock;
 
 import static org.junit.Assert.assertEquals;
 

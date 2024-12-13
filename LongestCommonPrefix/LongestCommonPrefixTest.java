@@ -4,7 +4,7 @@
  * Unit tests for the LongestCommonPrefix class.
  */
 
-package LeetCode.LongestCommonPrefix;
+package LongestCommonPrefix;
 
 import static org.junit.Assert.assertEquals;
 

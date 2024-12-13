@@ -5,7 +5,7 @@
  * 
  */
 
-package LeetCode.RemoveElement;
+package RemoveElement;
 
 import static org.junit.Assert.assertEquals;
 

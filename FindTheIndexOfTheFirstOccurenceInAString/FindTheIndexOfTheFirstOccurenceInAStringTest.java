@@ -4,7 +4,7 @@
  * Unit tests for the FindTheIndexOfTheFirstOccurenceInAString class.
  */
 
-package LeetCode.FindTheIndexOfTheFirstOccurenceInAString;
+package FindTheIndexOfTheFirstOccurenceInAString;
 
 import static org.junit.Assert.assertEquals;
 

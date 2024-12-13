@@ -5,7 +5,7 @@
  * 
  */
 
-package LeetCode.LongestPalindromic;
+package LongestPalindromic;
 
 import static org.junit.Assert.assertEquals;
 

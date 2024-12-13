@@ -9,7 +9,7 @@
  * Solution Approach: Iterate through the array, updating the array in-place to change the position of duplicates, while counting the number of unique elements.
  */
 
-package LeetCode.RemoveDuplicatesFromSortedArray;
+package RemoveDuplicatesFromSortedArray;
 
 public class RemoveDuplicatesFromSortedArray {
     public static int removeDuplicates(int[] nums) {

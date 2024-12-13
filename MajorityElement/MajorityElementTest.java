@@ -5,7 +5,7 @@
  * Unit tests for the MajorityElement class.
  */
 
-package LeetCode.MajorityElement;
+package MajorityElement;
 
 import static org.junit.Assert.assertEquals;
 

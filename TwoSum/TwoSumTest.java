@@ -4,7 +4,7 @@
  * Unit tests for the TwoSum class.
  */
 
-package LeetCode.TwoSum;
+package TwoSum;
 
 import static org.junit.Assert.assertArrayEquals;
 import org.junit.Test;

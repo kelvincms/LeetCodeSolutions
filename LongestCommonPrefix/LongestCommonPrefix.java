@@ -8,7 +8,7 @@
  * from string A is diffrent from string B we return the answer that we've built so far.
  */
 
-package LeetCode.LongestCommonPrefix;
+package LongestCommonPrefix;
 
 public class LongestCommonPrefix {
 

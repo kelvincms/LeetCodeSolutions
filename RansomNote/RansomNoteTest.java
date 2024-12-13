@@ -4,7 +4,7 @@
  * Unit tests for the RansomNote class.
  */
 
-package LeetCode.RansomNote;
+package RansomNote;
 
 import static org.junit.Assert.assertEquals;
 

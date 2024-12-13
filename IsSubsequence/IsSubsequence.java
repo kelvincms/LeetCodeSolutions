@@ -12,7 +12,7 @@
  * reach the length of the substring itself we simply return the result.
  */
 
-package LeetCode.IsSubsequence;
+package IsSubsequence;
 
 public class IsSubsequence {
 

@@ -11,7 +11,7 @@
  */
 
 
-package LeetCode.BestTimeToBuyAndSellStock;
+package BestTimeToBuyAndSellStock;
 
 public class BestTimeToBuyAndSellStock {
 

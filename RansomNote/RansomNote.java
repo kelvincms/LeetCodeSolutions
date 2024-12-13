@@ -10,7 +10,7 @@
  */
 
 
-package LeetCode.RansomNote;
+package RansomNote;
 
 import java.util.HashMap;
 

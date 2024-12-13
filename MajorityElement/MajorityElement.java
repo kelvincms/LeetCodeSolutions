@@ -9,7 +9,7 @@
  * Solution Approach: Sorting the array and finding the element with the most repetitions.
  */
 
-package LeetCode.MajorityElement;
+package MajorityElement;
 
 import java.util.Arrays;
 

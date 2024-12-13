@@ -10,7 +10,7 @@
  * convert to BigIntegers for addition, and then construct the result linked list.
  */
 
-package LeetCode.AddTwoNumbers;
+package AddTwoNumbers;
 
 import java.math.BigInteger;
 

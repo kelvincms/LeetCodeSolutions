@@ -4,7 +4,7 @@
  * Unit tests for the RemoveDuplicatesFromSortedArray class.
  */
 
-package LeetCode.RemoveDuplicatesFromSortedArray;
+package RemoveDuplicatesFromSortedArray;
 
 import static org.junit.Assert.assertEquals;
 

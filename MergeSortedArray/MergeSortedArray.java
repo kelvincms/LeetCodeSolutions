@@ -1,4 +1,4 @@
-package LeetCode.MergeSortedArray;
+package MergeSortedArray;
 
 import java.util.PriorityQueue;
 

@@ -8,7 +8,7 @@
  * When the needle is found, return left.
  */
 
-package LeetCode.FindTheIndexOfTheFirstOccurenceInAString;
+package FindTheIndexOfTheFirstOccurenceInAString;
 
 public class FindTheIndexOfTheFirstOccurenceInAString {
 

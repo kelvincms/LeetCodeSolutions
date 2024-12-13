@@ -5,7 +5,7 @@
  * Unit tests for the MergeSortedArray class.
  */
 
-package LeetCode.MergeSortedArray;
+package MergeSortedArray;
 
 import static org.junit.Assert.assertArrayEquals;
 

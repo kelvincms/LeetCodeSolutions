@@ -4,7 +4,7 @@
  * Unit tests for the IsSubsequence class.
  */
 
-package LeetCode.IsSubsequence;
+package IsSubsequence;
 
 import static org.junit.Assert.assertEquals;
 

@@ -16,7 +16,7 @@
  * 
  */
 
-package LeetCode.ZigZagConversion;
+package ZigZagConversion;
 
 
 public class ZigZagConversion {

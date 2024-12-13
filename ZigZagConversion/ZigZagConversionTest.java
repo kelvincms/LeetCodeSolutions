@@ -5,7 +5,7 @@
  * 
  */
 
-package LeetCode.ZigZagConversion;
+package ZigZagConversion;
 
 import static org.junit.Assert.assertEquals;
 

@@ -4,7 +4,7 @@
  * Unit tests for the LenghtOfLastWord class.
  */
 
-package LeetCode.LengthOfLastWord;
+package LengthOfLastWord;
 
 import static org.junit.Assert.assertEquals;
 

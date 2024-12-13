@@ -9,7 +9,7 @@
  * it is a palindrome, if the length of the newly found palindrome is bigger than the one that we currently have we replace the previous answer with the current one
  */
 
-package LeetCode.LongestPalindromic;
+package LongestPalindromic;
 
 import java.util.HashMap;
 import java.util.Stack;

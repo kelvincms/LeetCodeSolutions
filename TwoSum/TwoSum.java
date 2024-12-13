@@ -1,3 +1,5 @@
+package TwoSum;
+
 /**
  * @author Kelvin Clovis Montoli de Souza
  *
@@ -8,7 +10,6 @@
  * Solution Approach: Using a nested loop to find two numbers that add up to the target.
  */
 
-package LeetCode.TwoSum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

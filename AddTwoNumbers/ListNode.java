@@ -5,7 +5,7 @@
  * Auxiliary class used to represent a linked list
  */
 
-package LeetCode.AddTwoNumbers;
+package AddTwoNumbers;
 
 public class ListNode {
 

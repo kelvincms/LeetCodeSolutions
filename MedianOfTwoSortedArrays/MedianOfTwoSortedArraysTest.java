@@ -5,7 +5,7 @@
  * 
  */
 
-package LeetCode.MedianOfTwoSortedArrays;
+package MedianOfTwoSortedArrays;
 
 import static org.junit.Assert.assertEquals;
 

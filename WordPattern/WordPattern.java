@@ -9,7 +9,7 @@
  */
 
 
-package LeetCode.WordPattern;
+package WordPattern;
 
 import java.util.HashMap;
 

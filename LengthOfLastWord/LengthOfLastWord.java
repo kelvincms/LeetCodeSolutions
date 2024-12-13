@@ -11,7 +11,7 @@
  *
  **/
 
-package LeetCode.LengthOfLastWord;
+package LengthOfLastWord;
 
 public class LengthOfLastWord {
 

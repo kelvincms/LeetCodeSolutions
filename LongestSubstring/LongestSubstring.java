@@ -7,7 +7,7 @@
  * Solution Approach: Using a sliding window approach with a HashMap to track characters and their indices.
  */
 
-package LeetCode.LongestSubstring;
+package LongestSubstring;
 
 import java.util.HashMap;
 

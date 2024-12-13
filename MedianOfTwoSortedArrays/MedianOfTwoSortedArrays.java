@@ -10,7 +10,7 @@
  * the position of the median and then return it
  */
 
-package LeetCode.MedianOfTwoSortedArrays;
+package MedianOfTwoSortedArrays;
 
 import java.util.ArrayList;
 

@@ -12,7 +12,7 @@
  *         to its respective integer
  */
 
-package LeetCode.RomanToInteger;
+package RomanToInteger;
 
 import java.util.HashMap;
 

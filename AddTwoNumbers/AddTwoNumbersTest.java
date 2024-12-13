@@ -5,7 +5,7 @@
  * Unit tests for the AddTwoNumbers class.
  */
 
-package LeetCode.AddTwoNumbers;
+package AddTwoNumbers;
 
 import static org.junit.Assert.assertEquals;
 

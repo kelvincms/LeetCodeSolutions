@@ -11,7 +11,7 @@
  * replace it at the appropriate position in the array.
  */
 
-package LeetCode.RemoveElement;
+package RemoveElement;
 
 public class RemoveElement {
     public static int removeElement(int[] nums, int val) {

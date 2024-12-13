@@ -4,7 +4,7 @@
  * Unit tests for the RomanToInteger class.
  */
 
-package LeetCode.RomanToInteger;
+package RomanToInteger;
 
 import static org.junit.Assert.assertEquals;
 
